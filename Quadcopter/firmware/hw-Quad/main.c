@@ -39,6 +39,9 @@ switch (t)
 		break;
 
 	default:
+		//Lectura IMU
+		//Carregir lectura IMU
+		//Calcular inclinacion
 		sttc();
 }
 }
